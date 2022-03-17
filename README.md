@@ -5,7 +5,7 @@
 [![Twitter Badge](https://img.shields.io/badge/-Twitter-00acee?style=flat-square&logo=Twitter&logoColor=white)](https://twitter.com/Kinzelin2)
 [![Instagram Badge](https://img.shields.io/badge/-Instagram-e4405f?style=flat-square&logo=Instagram&logoColor=white)](https://instagram.com/kinzelinremy/)
 
-### Glad to see you here! &nbsp; ![](https://visitor-badge.glitch.me/badge?page_id=SLATTY54&style=flat-square&color=0088cc)
+### Glad to see you here! &nbsp; ![](https://visitor-badge.glitch.me/badge?page_id=SLATTY54.SLATTY54&style=flat-square&color=0088cc)
 
 I am a computer science student🎓 at the IUT Charlemagne 🏛 in Nancy. I was always passionate about the digital world and all new technologies.I love to explore new technologies and leverage them to solve real-life problems ✨. I would like to work in development and maybe manage a team.
 
