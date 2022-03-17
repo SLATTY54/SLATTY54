@@ -75,7 +75,7 @@ I am a computer science student🎓 at the IUT Charlemagne 🏛 in Nancy. I was 
   	    <li><b>OS:</b> MAC OS X</li>
 	    <li><b>Laptop: </b> Macbook air new M1</li>
   	    <li><b>Browser: </b> Safari</li>
-	    <li><b>Terminal: </b> ZSH: Oh My Zsh (PowerLevel10k)</li>
+	    <li><b>Terminal: </b> ZSH</li>
 	    <li><b>Code Editor:</b> VSCode - The best editor out there.</li>
 	    <li><b>To Stay Updated:</b>Linkedin and Twitter.</li>
 	    <br />
