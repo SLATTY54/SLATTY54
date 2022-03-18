@@ -24,7 +24,7 @@ I am a computer science student🎓 at the IUT Charlemagne 🏛 in Nancy. I was 
 
 ### Talking about Personal Stuffs:
 
-- 🛠 &nbsp; I’m currently working with Java, C#, Python, <br /> Javascript, C.
+- 🛠 &nbsp; I’m currently working with Java, C#, Python, <br /> Javascript, Sql, C, HTML&CSS, etc ...
 - 👨🏻‍💻 &nbsp; Most of my projects are available on [Github](https://github.com/SLATTY54).
 - 👾 &nbsp; Fun fact: I am the boss of the unity game engine.
 - 📫 &nbsp; How to reach me: kinzelinr@gmail.com.
