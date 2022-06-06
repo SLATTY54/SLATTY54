@@ -32,7 +32,7 @@ I am a computer science student🎓 at the IUT Charlemagne 🏛 in Nancy. I was 
 ### My Absolute Favorites:
 
 - 💻 &nbsp; I love exploring new tech stack and building cool stuffs.
-- 🍕 &nbsp; Hackathons, meetups & tech events.
+- 🍕 &nbsp; GameJam, meetups & tech events.
 
 ### Languages and Tools:
 
