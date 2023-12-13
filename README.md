@@ -8,7 +8,7 @@
 ### Glad to see you here! &nbsp; 
 <p> <img src="https://komarev.com/ghpvc/?username=SLATTY54&label=Visitors&color=009dff&style=flat" alt="SLATTY54"/></p>
 
-I am a computer science student🎓 at the IUT Charlemagne 🏛 in Nancy. I was always passionate about the digital world and all new technologies.I love to explore new technologies and leverage them to solve real-life problems ✨. I would like to work in development and maybe manage a team.
+I am a computer science student🎓 at the UTT (University of Technology of Troyes 🏛). I was always passionate about the digital world and all new technologies.I love to explore new technologies and leverage them to solve real-life problems ✨. I would like to work in development and maybe manage a team.
 
 
 
