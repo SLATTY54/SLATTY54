@@ -40,12 +40,14 @@ I am a computer science student🎓 at the UTT (University of Technology of Troy
 <code><img height="40" src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/java.svg" alt="java"></code>
 <code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" alt="python"></code>
 <code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" alt="javascript"></code>
+<code><img height="30" src="https://go.dev/images/go-logo-white.svg" alt="Golang"></code>
 
 <code><img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="HTML"><img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="CSS"></code>
 <code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/php/php.png" alt="PHP"></code>
 <code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/flutter/flutter.png" alt="flutter"></code>
 <code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/c/c.png" alt="c"></code>
-<code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" alt="c"></code>
+<code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" alt="react"></code>
+
 
 
 
@@ -82,9 +84,9 @@ I am a computer science student🎓 at the UTT (University of Technology of Troy
   	<ul>
   	    <li><b>OS:</b> MAC OS X</li>
 	    <li><b>Laptop: </b> Macbook air new M1</li>
-  	    <li><b>Browser: </b> Safari</li>
+  	    <li><b>Browser: </b> Chrome</li>
 	    <li><b>Terminal: </b> ZSH</li>
-	    <li><b>Code Editor:</b> VSCode - The best editor out there.</li>
+	    <li><b>Code Editor:</b> JetBrain - The best editor out there.</li>
 	    <li><b>To Stay Updated:</b>Linkedin and Twitter.</li>
 	    <br />
 	
